@@ -901,7 +901,7 @@ function getygkkkConfig(Pswd, hostName) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='32' height='32' rx='6' fill='%2336d1c4'/%3E%3Ctext x='7' y='15' style='font-size:14px;fill:%23fff;font-weight:bold;'%3EZQ%3C/text%3E%3Ctext x='5' y='29' style='font-size:9px;fill:%23fff;font-weight:bold;'%3ETrojan%3C/text%3E%3C/svg%3E">
-    <title>ZA-Trojan 配置中心 - ${hostName}</title>
+    <title>ZQ-Trojan 配置中心 - ${hostName}</title>
 <style>
         * {
             margin: 0;
